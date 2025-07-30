@@ -1,6 +1,6 @@
 # codeshare- Frontend
 
-backend repository - https://github.com/rampalyadav0001/codeShare-backend
+backend repository - https://github.com/Ankitsingh2820/codeShare-backend
 ## Introduction
 
 This is the frontend part of a collaborative code editor project that allows users to write, compile, and run code in real-time with other users. It supports multiple programming languages such as JavaScript, C++, and Python. The application uses React for the user interface, CodeMirror for the code editor, and Socket.IO for real-time communication.
@@ -51,5 +51,5 @@ To get the frontend running locally, follow these steps:
 ## Contact
 For any questions or suggestions, please feel free to contact me:
 
-- Email: rampalyadav23082001@gmail.com
-- LinkedIn: [Rampal Yadav](https://www.linkedin.com/in/rampal-yadav/)
+- Email: ankitsingh41201@gmail.com
+
