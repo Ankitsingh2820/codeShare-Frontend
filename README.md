@@ -25,7 +25,7 @@ To get the frontend running locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rampalyadav0001/codeShare-Frontend.git
+   git clone https://github.com/Ankitsingh2820/codeShare-Frontend.git
    ```
 2. **Navigate to the project directory:**
    ```bash
